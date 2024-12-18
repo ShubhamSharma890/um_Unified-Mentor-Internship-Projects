@@ -1,2 +1,2 @@
 # um_Unified-Mentor-Internship-Projects
-This repo is has 3 projects on which i work on during my internship at Unified Mentor.
+This repository contains three projects that I worked on during my internship at Unified Mentor.
